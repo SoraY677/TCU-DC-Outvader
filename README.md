@@ -8,3 +8,4 @@
 ## 開発環境
 ### [Visual Stuio 2019](https://visualstudio.microsoft.com/ja/downloads/)
 ### [Dxライブラリ](https://dxlib.xsrv.jp/)
+"# Outvader" 
